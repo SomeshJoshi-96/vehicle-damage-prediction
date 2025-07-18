@@ -102,7 +102,6 @@ The interface accepts **.jpg / .png** images, displays a preview, and shows the 
 ## 🤝 Contributing
 
 Pull requests and issue reports are welcome!
-Please run **`black`** and **`flake8`** before committing.
 
 ---
 
